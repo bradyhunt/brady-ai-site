@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-01-03 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Conitnuing research at <a href="https://cancer.dartmouth.edu/radiation-oncology/radiation-oncology-team">Dartmouth-Hitchcock</a> in a new Data Scientist supporting AI research in RadOnc.

@@ -11,12 +11,12 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Brady Hunt
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 lang: en 
 # icon: 🔥 # the emoji used as the favicon
 url: https://bradyhunt.github.io 
-baseurl:  
+baseurl:
+cv_pdf_url: https://www.dropbox.com/s/u6dv25nmh9735wd/BRADY_HUNT_CV.pdf?dl=0  
 last_updated: false 
 
 # -----------------------------------------------------------------------------
@@ -30,7 +30,7 @@ last_updated: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -67,8 +67,8 @@ stackoverflow_id: #your stackoverflow id
 
 rss_icon: false
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -241,7 +241,7 @@ enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
-enable_darkmode:            true   # enables switching between light/dark modes
+enable_darkmode:            false   # enables switching between light/dark modes
 enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
