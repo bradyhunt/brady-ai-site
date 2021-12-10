@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-03 07:59:00-0400
+date: 2020-10-01 12:00:00-0000
 inline: true
 ---
 
-Conitnuing research at <a href="https://cancer.dartmouth.edu/radiation-oncology/radiation-oncology-team">Dartmouth-Hitchcock</a> in a new Data Scientist supporting AI research in RadOnc.
+Attended MICCAI 2020 virtually and took 3rd place in the MONAI bootcamp COVID-19 X-ray challenge.
