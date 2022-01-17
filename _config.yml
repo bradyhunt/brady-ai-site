@@ -14,7 +14,7 @@ footer_text: >
 
 lang: en 
 # icon: 🔥 # the emoji used as the favicon
-url: https://bradyhunt.github.io 
+url: https://brady.ai
 baseurl:
 cv_pdf_url: https://www.dropbox.com/s/u6dv25nmh9735wd/BRADY_HUNT_CV.pdf?dl=0  
 last_updated: false 
