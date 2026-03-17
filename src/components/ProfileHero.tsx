@@ -5,7 +5,7 @@ export function ProfileHero() {
   return (
     <section>
       <div className="text-gray-700 dark:text-gray-300 text-[15px] leading-relaxed">
-        <div className="float-left mr-6 mb-4">
+        <div className="flex flex-col items-center mb-4 sm:float-left sm:mr-6 sm:items-start">
           <img
             src="/images/profile/prof_pic.jpg"
             alt={siteConfig.title}
